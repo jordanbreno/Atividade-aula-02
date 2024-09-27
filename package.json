@@ -1,0 +1,14 @@
+{
+  "name": "atvd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atvd.js",
+  "scripts": {
+    "start": "nodemon atvd.js"
+  },
+  "author": "Jordan Breno",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
